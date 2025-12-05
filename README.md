@@ -1,3 +1,12 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-2196F3?style=for-the-badge)
+![Supply Chain](https://img.shields.io/badge/Supply%20Chain-FFC107?style=for-the-badge)
+
+
+
 # Supply Chain Data Cleaning & Exploratory Data Analysis (EDA)
 
 
